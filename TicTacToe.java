@@ -161,8 +161,5 @@ public class TicTacToe {
             else {
             } */ //this last part does not work yet. Revisions needed
         }
-        }
-        }
     }
-
 }
