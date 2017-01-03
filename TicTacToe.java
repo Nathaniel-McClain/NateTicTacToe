@@ -147,12 +147,21 @@ public class TicTacToe {
             spaces[s0].setForeground(Color.BLUE);
             spaces[s1].setForeground(Color.BLUE);
             spaces[s2].setForeground(Color.BLUE);
-           // JPanel.sleep(50);  //need to make a pause after a win
+           // JPanel.sleep(50);  //need to make a pause after a win. Need to change color to blue.
         }
 
         // Reset the game so that it can be played again.
         private void newGame() {
-            return;
+       /*     if (turn = spaces[3].getText()){
+                return;
+            }
+            else if (turn = spaces[5].getText()){
+                return;
+            }
+            else {
+            } */ //this last part does not work yet. Revisions needed
+        }
+        }
         }
     }
 
